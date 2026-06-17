@@ -1,3 +1,0 @@
-Memory.dll>=1.0.0
-xunit>=2.4.1
-Microsoft.NET.Test.Sdk>=17.0.0
