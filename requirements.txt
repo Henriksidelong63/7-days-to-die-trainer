@@ -1,2 +1,0 @@
-pywin32==306
-tkinter; platform_system == "Windows"
